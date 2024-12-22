@@ -28,7 +28,7 @@ version = "0.4.16"
 
 [package.metadata.system-deps.wireplumber_0_5]
 name = "wireplumber-0.5"
-version = "0.5"
+version = "0.5.1"
 
 [package.metadata.system-deps.wireplumber_0_4.v0_4_2]
 version = "0.4.2"
@@ -110,11 +110,11 @@ v0_4_12 = ["v0_4_11"]
 v0_4_15 = ["v0_4_12"]
 v0_4_16 = ["v0_4_15"]
 v0_5_1 = ["v0_5_1"]
-v0_5_2 = ["v0_5_1"]
-v0_5_3 = ["v0_5_1"]
-v0_5_4 = ["v0_5_1"]
-v0_5_5 = ["v0_5_1"]
-v0_5_6 = ["v0_5_1"]
+v0_5_2 = ["v0_5_2"]
+v0_5_3 = ["v0_5_3"]
+v0_5_4 = ["v0_5_4"]
+v0_5_5 = ["v0_5_5"]
+v0_5_6 = ["v0_5_6"]
 
 
 
