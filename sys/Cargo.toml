@@ -23,6 +23,10 @@ include = [
 ]
 
 [package.metadata.system-deps.wireplumber_0_4]
+name = "wireplumber-0.4"
+version = "0.4.16"
+
+[package.metadata.system-deps.wireplumber_0_5]
 name = "wireplumber-0.5"
 version = "0.5"
 
